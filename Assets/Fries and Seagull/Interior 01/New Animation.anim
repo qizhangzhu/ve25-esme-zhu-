@@ -27,10 +27,19 @@ AnimationClip:
         inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
         outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
       - serializedVersion: 3
+        time: 0.38333333
+        value: {x: 0, y: -25.407175, z: 0}
+        inSlope: {x: 0, y: -152.73845, z: 0}
+        outSlope: {x: 0, y: -152.73845, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.09074403, z: 0.33333334}
+      - serializedVersion: 3
         time: 0.6666667
-        value: {x: 0, y: 0.775, z: 0}
-        inSlope: {x: 0, y: 0, z: 0}
-        outSlope: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: -60.008183, z: 0}
+        inSlope: {x: 0, y: -93.79207, z: 0}
+        outSlope: {x: 0, y: -93.79207, z: 0}
         tangentMode: 0
         weightedMode: 0
         inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
@@ -587,14 +596,14 @@ AnimationClip:
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
-        time: 0.6666667
-        value: 0.775
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 136
+        time: 0.38333333
+        value: -25.407175
+        inSlope: -152.73845
+        outSlope: -152.73845
+        tangentMode: 0
         weightedMode: 0
         inWeight: 0.33333334
-        outWeight: 0.33333334
+        outWeight: 0.09074403
       - serializedVersion: 3
         time: 1.9833333
         value: -89.225
@@ -1740,7 +1749,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.z
-    path: 
+    path: front wheel 2
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -1752,7 +1761,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.y
-    path: 
+    path: front wheel 2
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -1764,7 +1773,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.x
-    path: 
+    path: front wheel 2
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -1812,7 +1821,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.x
-    path: front wheel 2
+    path: 
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -1824,7 +1833,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.y
-    path: front wheel 2
+    path: 
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -1836,7 +1845,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.z
-    path: front wheel 2
+    path: 
     classID: 4
     script: {fileID: 0}
     flags: 0
